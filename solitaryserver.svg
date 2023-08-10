@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1013 1013">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #f10f35;
+      }
+
+      .cls-3 {
+        fill: #0a0908;
+      }
+
+      .cls-4 {
+        fill: #f69c00;
+      }
+
+      .cls-5 {
+        font-family: BudmoJiggler, 'Budmo Jiggler';
+        font-size: 44px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="0" y="0" width="1013" height="1013" rx="506.5" ry="506.5"/>
+  <circle class="cls-2" cx="610.45" cy="485.01" r="156.55"/>
+  <polygon class="cls-1" points="290 672 290 581.88 450.9 484.55 290 383.33 290 296.73 611.79 485.01 290 672"/>
+  <path class="cls-4" d="m475.62,405.31c-13.82,23.37-21.78,50.62-21.78,79.75s7.87,56.06,21.54,79.34l136.35-79.34-136.11-79.75Z"/>
+  <rect class="cls-2" x="290" y="757" width="477" height="102" rx="40" ry="40"/>
+  <text class="cls-5" transform="translate(307.6 822.04)"><tspan x="0" y="0">Solitary server</tspan></text>
+</svg>
