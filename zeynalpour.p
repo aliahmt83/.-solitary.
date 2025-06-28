@@ -1,9 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLXBAbG9jYWxob3N0OjUzOTQ1#27.44GB/100.00GB (27.4 %)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLXBAbG9jYWxob3N0OjUzOTQ1#28.66GB/100.00GB (28.7 %)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLXBAbG9jYWxob3N0OjUzOTQ1#1404/04/23 18%3A48%3A04 
 vless://84078cc7-7b19-0a30-285e-498e3f508cd3@188.213.170.76:80?encryption=none&type=grpc#TamamBaha %F0%9F%87%AE%F0%9F%87%B9 
-vless://84078cc7-7b19-0a30-285e-498e3f508cd3@cdn2.myandroidplus2.ir:8082?encryption=none&type=grpc#grpc(germany) 
-vless://84078cc7-7b19-0a30-285e-498e3f508cd3@cdn2.myandroidplus2.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#xhttp(france) 
-vless://84078cc7-7b19-0a30-285e-498e3f508cd3@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#xhttp(germany) 
+vless://84078cc7-7b19-0a30-285e-498e3f508cd3@cdn2.myandroidplus2.ir:8082?encryption=none&type=grpc#GRPC %F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1 
+vless://84078cc7-7b19-0a30-285e-498e3f508cd3@cdn2.myandroidplus2.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#XHTTP %F0%9F%87%AB%F0%9F%87%B7 
+vless://84078cc7-7b19-0a30-285e-498e3f508cd3@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#XHTTP %F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1 
 vless://84078cc7-7b19-0a30-285e-498e3f508cd3@speed2.wiselearn.ir:80?encryption=none&type=grpc#Tamambaha %F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1 
 vless://84078cc7-7b19-0a30-285e-498e3f508cd3@cdn3.myandroidplus2.ir:2893?path=/&encryption=none&type=ws&host=bama.ir#Nimbaha %F0%9F%87%A9%F0%9F%87%AA 
 vless://84078cc7-7b19-0a30-285e-498e3f508cd3@speed3.wiselearn.ir:80?encryption=none&type=grpc#Tamambaha %F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1 
