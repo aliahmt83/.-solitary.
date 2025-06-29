@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyQGxvY2FsaG9zdDo1MjgwMg==#37.31GB/100.00GB (37.3 %)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyQGxvY2FsaG9zdDo1MjgwMg==#36.86GB/100.00GB (36.9 %)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyQGxvY2FsaG9zdDo1MjgwMg==#1404/04/13 13%3A29%3A11 
 vless://d0cda383-9738-a260-f78f-87bdba2af1f4@188.213.170.76:80?encryption=none&type=grpc#TamamBaha %F0%9F%87%AE%F0%9F%87%B9 
 vless://d0cda383-9738-a260-f78f-87bdba2af1f4@cdn2.myandroidplus2.ir:8082?encryption=none&type=grpc#GRPC %F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1 
@@ -13,7 +13,6 @@ vless://d0cda383-9738-a260-f78f-87bdba2af1f4@cdn3.myandroidplus2.ir:2895?path=/&
 vless://d0cda383-9738-a260-f78f-87bdba2af1f4@cdn3.myandroidplus2.ir:2900?path=/&encryption=none&type=ws&host=bama.ir#Nimbaha %F0%9F%87%B9%F0%9F%87%B7 
 vless://d0cda383-9738-a260-f78f-87bdba2af1f4@cdn3.myandroidplus2.ir:2088?path=/apiv2&encryption=none&type=ws&host=bama.ir#Nimbaha %F0%9F%87%B7%F0%9F%87%BA 
 vless://d0cda383-9738-a260-f78f-87bdba2af1f4@cdn3.myandroidplus2.ir:2894?path=/&encryption=none&type=ws&host=bama.ir#Nimbaha %F0%9F%87%B7%F0%9F%87%B4 
-vless://d0cda383-9738-a260-f78f-87bdba2af1f4@cdn3.myandroidplus2.ir:2899?path=/&encryption=none&type=ws&host=bama.ir#Nimbaha %F0%9F%87%A8%F0%9F%87%AD 
 vless://d0cda383-9738-a260-f78f-87bdba2af1f4@speed.wiselearn.ir:80?encryption=none&type=grpc#Tamambaha %F0%9F%87%AB%F0%9F%87%AE%E2%9A%A1 
 vless://d0cda383-9738-a260-f78f-87bdba2af1f4@95.216.216.174:781?encryption=none&type=grpc#TamamBaha %F0%9F%87%AB%F0%9F%87%AE 
 vless://d0cda383-9738-a260-f78f-87bdba2af1f4@cdn3.myandroidplus2.ir:2897?path=/&encryption=none&type=ws&host=bama.ir#Nimbaha %F0%9F%87%B3%F0%9F%87%B4 
