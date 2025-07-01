@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZXJhai1NU0RAbG9jYWxob3N0OjUxNDMy#6.99GB/30.00GB (23.3 %)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZXJhai1NU0RAbG9jYWxob3N0OjUxNDMy#8.23GB/30.00GB (27.4 %)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZXJhai1NU0RAbG9jYWxob3N0OjUxNDMy#1404/05/06 00%3A30%3A27 
 vless://d65e2979-6462-28d2-ae84-4963c0f92725@89.36.208.205:80?encryption=none&type=grpc#TamamBaha %F0%9F%87%AE%F0%9F%87%B9 
 vless://d65e2979-6462-28d2-ae84-4963c0f92725@cdn2.myandroidplus2.ir:8082?encryption=none&type=grpc#GRPC %F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1 
