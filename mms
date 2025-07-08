@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZXJhai1NTVNAbG9jYWxob3N0OjUzNjQ0#1.52GB/50.00GB (3.0 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZXJhai1NTVNAbG9jYWxob3N0OjUzNjQ0#1.58GB/50.00GB (3.2 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZXJhai1NTVNAbG9jYWxob3N0OjUzNjQ0#1404/05/15 00:33:42 
 vless://dea25689-03ec-59a6-c1c1-fc29636d9332@89.36.208.205:80?encryption=none&type=grpc#🇮🇹 
 vless://dea25689-03ec-59a6-c1c1-fc29636d9332@cdn2.myandroidplus2.ir:8082?encryption=none&type=grpc#🇩🇪 
