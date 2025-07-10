@@ -1,7 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZXJhai1NTVNAbG9jYWxob3N0OjUzNjQ0#7.41GB/50.00GB (14.8 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZXJhai1NTVNAbG9jYWxob3N0OjUzNjQ0#7.96GB/50.00GB (15.9 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZXJhai1NTVNAbG9jYWxob3N0OjUzNjQ0#1404/05/15 00:33:42 
 vless://dea25689-03ec-59a6-c1c1-fc29636d9332@it.wiselearn.ir:80?encryption=none&type=tcp#🇮🇹 
-vless://dea25689-03ec-59a6-c1c1-fc29636d9332@89.36.208.205:80?encryption=none&type=grpc#🇮🇹 
+vless://dea25689-03ec-59a6-c1c1-fc29636d9332@fast.vipstore.world:80?mode=auto&security=none&encryption=none&host=it1.global.ssl.fastly.net&type=xhttp#🇮🇹 
 vless://dea25689-03ec-59a6-c1c1-fc29636d9332@fast.vipstore.world:80?mode=auto&security=none&encryption=none&host=belgi.global.ssl.fastly.net&type=xhttp#🇧🇪 
 vless://dea25689-03ec-59a6-c1c1-fc29636d9332@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
 vless://dea25689-03ec-59a6-c1c1-fc29636d9332@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#🇷🇺 
