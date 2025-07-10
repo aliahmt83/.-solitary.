@@ -1,7 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyQGxvY2FsaG9zdDo1NDc4MA==#2.45GB/60.00GB (4.1 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyQGxvY2FsaG9zdDo1NDc4MA==#1404/05/12 13:29:02 
 vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@it.wiselearn.ir:80?encryption=none&type=tcp#🇮🇹 
-vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@89.36.208.205:80?encryption=none&type=grpc#🇮🇹 
+vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@fast.vipstore.world:80?mode=auto&security=none&encryption=none&host=it1.global.ssl.fastly.net&type=xhttp#🇮🇹 
 vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@fast.vipstore.world:80?mode=auto&security=none&encryption=none&host=belgi.global.ssl.fastly.net&type=xhttp#🇧🇪 
 vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
 vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#🇷🇺 
