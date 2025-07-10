@@ -3,8 +3,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpILk1vaGFtbWFkaUBsb2NhbGhvc3Q6NTYwMDM=#1404/0
 vless://91029ae8-da7e-a281-1665-11e762bd4fa2@it.wiselearn.ir:80?encryption=none&type=tcp#🇮🇹 
 vless://91029ae8-da7e-a281-1665-11e762bd4fa2@89.36.208.205:80?encryption=none&type=grpc#🇮🇹 
 vless://91029ae8-da7e-a281-1665-11e762bd4fa2@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
-vless://91029ae8-da7e-a281-1665-11e762bd4fa2@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#(🇷🇺)روسیه 
-vless://91029ae8-da7e-a281-1665-11e762bd4fa2@cdn2.myandroidplus2.ir:8082?encryption=none&type=grpc#g(Tunnel) 
-vless://91029ae8-da7e-a281-1665-11e762bd4fa2@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#x(Tunnel) 
+vless://91029ae8-da7e-a281-1665-11e762bd4fa2@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#🇷🇺 
+vless://91029ae8-da7e-a281-1665-11e762bd4fa2@cdn2.myandroidplus2.ir:8082?encryption=none&type=grpc#Tunnel 
+vless://91029ae8-da7e-a281-1665-11e762bd4fa2@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#Tunnel 
 vless://91029ae8-da7e-a281-1665-11e762bd4fa2@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
 vless://91029ae8-da7e-a281-1665-11e762bd4fa2@speed.wiselearn.ir:80?encryption=none&type=grpc#🇫🇮 
