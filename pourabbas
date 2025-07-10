@@ -1,9 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQb3VyYWJiYXNAbG9jYWxob3N0OjU5ODkw#10.20GB/30.00GB (34.0 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQb3VyYWJiYXNAbG9jYWxob3N0OjU5ODkw#10.65GB/30.00GB (35.5 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQb3VyYWJiYXNAbG9jYWxob3N0OjU5ODkw#1404/05/07 23:14:36 
 vless://6899354c-fd59-d240-dd70-e17f3f7e31bd@it.wiselearn.ir:80?encryption=none&type=tcp#🇮🇹 
 vless://6899354c-fd59-d240-dd70-e17f3f7e31bd@89.36.208.205:80?encryption=none&type=grpc#🇮🇹 
 vless://6899354c-fd59-d240-dd70-e17f3f7e31bd@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
-vless://6899354c-fd59-d240-dd70-e17f3f7e31bd@cdn2.myandroidplus2.ir:8082?encryption=none&type=grpc#🇩🇪 
-vless://6899354c-fd59-d240-dd70-e17f3f7e31bd@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇩🇪 
+vless://6899354c-fd59-d240-dd70-e17f3f7e31bd@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#(🇷🇺)روسیه 
+vless://6899354c-fd59-d240-dd70-e17f3f7e31bd@cdn2.myandroidplus2.ir:8082?encryption=none&type=grpc#g(Tunnel) 
+vless://6899354c-fd59-d240-dd70-e17f3f7e31bd@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#x(Tunnel) 
 vless://6899354c-fd59-d240-dd70-e17f3f7e31bd@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
 vless://6899354c-fd59-d240-dd70-e17f3f7e31bd@speed.wiselearn.ir:80?encryption=none&type=grpc#🇫🇮 
