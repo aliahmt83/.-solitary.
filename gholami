@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHaG9sYW1pLW1pbGFuQGxvY2FsaG9zdDo1MTk1OA==#43.98GB/70.00GB (62.8 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHaG9sYW1pLW1pbGFuQGxvY2FsaG9zdDo1MTk1OA==#44.51GB/70.00GB (63.6 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHaG9sYW1pLW1pbGFuQGxvY2FsaG9zdDo1MTk1OA==#1404/04/27 15:33:41 
 vless://e53fed47-fd0c-5e74-9b54-4e4fb62f111e@it.wiselearn.ir:80?encryption=none&type=tcp#🇮🇹 
-vless://e53fed47-fd0c-5e74-9b54-4e4fb62f111e@fast.vipstore.world:80?mode=auto&security=none&encryption=none&host=it1.global.ssl.fastly.net&type=xhttp#🇮🇹 
 vless://e53fed47-fd0c-5e74-9b54-4e4fb62f111e@fast.vipstore.world:80?mode=auto&security=none&encryption=none&host=belgi.global.ssl.fastly.net&type=xhttp#🇧🇪 
 vless://e53fed47-fd0c-5e74-9b54-4e4fb62f111e@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
 vless://e53fed47-fd0c-5e74-9b54-4e4fb62f111e@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#🇷🇺 
 vless://e53fed47-fd0c-5e74-9b54-4e4fb62f111e@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#Tunnel 
 vless://e53fed47-fd0c-5e74-9b54-4e4fb62f111e@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
-vless://e53fed47-fd0c-5e74-9b54-4e4fb62f111e@speed.wiselearn.ir:80?encryption=none&type=grpc#🇫🇮 
+vless://e53fed47-fd0c-5e74-9b54-4e4fb62f111e@speed.wiselearn.ir:8880?encryption=none&type=grpc#🇫🇮 
+vless://e53fed47-fd0c-5e74-9b54-4e4fb62f111e@fast.vipstore.world:80?mode=auto&security=none&encryption=none&path=/api&host=fin1.global.ssl.fastly.net&type=xhttp#🇫🇮(فنلاند) 
