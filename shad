@@ -1,9 +1,10 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotU2hhZC1AbG9jYWxob3N0OjUzMjQy#17.20GB/60.00GB (28.7 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotU2hhZC1AbG9jYWxob3N0OjUzMjQy#1404/05/01 19:51:14 
 vless://e332b535-6ac9-8b88-792b-b33bd1915238@it.wiselearn.ir:80?encryption=none&type=tcp#🇮🇹 
-vless://e332b535-6ac9-8b88-792b-b33bd1915238@141.98.233.104:80?mode=auto&security=none&encryption=none&type=xhttp#🇧🇪 
+vless://e332b535-6ac9-8b88-792b-b33bd1915238@141.98.233.104:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇧🇪 
 vless://e332b535-6ac9-8b88-792b-b33bd1915238@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
 vless://e332b535-6ac9-8b88-792b-b33bd1915238@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#🇷🇺 
+vless://e332b535-6ac9-8b88-792b-b33bd1915238@ned.vipstore.world:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#(🇳🇱)هلند 
 vless://e332b535-6ac9-8b88-792b-b33bd1915238@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#Tunnel 
 vless://e332b535-6ac9-8b88-792b-b33bd1915238@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
 vless://e332b535-6ac9-8b88-792b-b33bd1915238@speed.wiselearn.ir:8880?encryption=none&type=grpc#🇫🇮 
