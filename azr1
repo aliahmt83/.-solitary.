@@ -1,10 +1,10 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBemFySG9teW91bkBsb2NhbGhvc3Q6NTM0OTc=#32.95GB/40.00GB (82.4 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBemFySG9teW91bkBsb2NhbGhvc3Q6NTM0OTc=#1404/04/25 14:50:12 
 vless://76d9b515-8579-fd15-1cca-28130452560b@it.wiselearn.ir:80?encryption=none&type=tcp#🇮🇹 
-vless://76d9b515-8579-fd15-1cca-28130452560b@fast.vipstore.world:80?mode=auto&security=none&encryption=none&host=it1.global.ssl.fastly.net&type=xhttp#🇮🇹 
 vless://76d9b515-8579-fd15-1cca-28130452560b@fast.vipstore.world:80?mode=auto&security=none&encryption=none&host=belgi.global.ssl.fastly.net&type=xhttp#🇧🇪 
 vless://76d9b515-8579-fd15-1cca-28130452560b@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
 vless://76d9b515-8579-fd15-1cca-28130452560b@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#🇷🇺 
 vless://76d9b515-8579-fd15-1cca-28130452560b@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#Tunnel 
 vless://76d9b515-8579-fd15-1cca-28130452560b@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
-vless://76d9b515-8579-fd15-1cca-28130452560b@speed.wiselearn.ir:80?encryption=none&type=grpc#🇫🇮 
+vless://76d9b515-8579-fd15-1cca-28130452560b@speed.wiselearn.ir:8880?encryption=none&type=grpc#🇫🇮 
+vless://76d9b515-8579-fd15-1cca-28130452560b@fast.vipstore.world:80?mode=auto&security=none&encryption=none&path=/api&host=fin1.global.ssl.fastly.net&type=xhttp#🇫🇮(فنلاند) 
