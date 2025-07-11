@@ -7,4 +7,4 @@ vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@r.wiselearn.ir:8443?security=tls&al
 vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#Tunnel 
 vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
 vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@speed.wiselearn.ir:8880?encryption=none&type=grpc#🇫🇮 
-vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@fast.vipstore.world:80?mode=auto&security=none&encryption=none&path=/api&host=fin1.global.ssl.fastly.net&type=xhttp#🇫🇮(فنلاند) 
+vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@fast.vipstore.world:80?mode=auto&security=none&encryption=none&path=/api&host=fin1.global.ssl.fastly.net&type=xhttp#🇫🇮 
