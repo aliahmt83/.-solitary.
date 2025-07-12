@@ -1,11 +1,11 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2aXBUQUIzQGxvY2FsaG9zdDo1Nzg2OQ==#18.21GB/30.00GB (60.7 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2aXBUQUIzQGxvY2FsaG9zdDo1Nzg2OQ==#1404/05/07 21:02:31 
 vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@it.wiselearn.ir:80?encryption=none&type=tcp#🇮🇹 
-vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@141.98.233.104:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇧🇪 
+vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@fast.vipstore.world:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=belgium.global.ssl.fastly.net&type=xhttp#🇧🇪 
 vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
 vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#🇷🇺 
-vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@ned.vipstore.world:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇳🇱 
+vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@fast.vipstore.world:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=holland.global.ssl.fastly.net&type=xhttp#🇳🇱 
 vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#Tunnel 
 vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
 vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@speed.wiselearn.ir:8880?encryption=none&type=grpc#🇫🇮 
-vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@65.108.242.114:80?mode=auto&security=none&encryption=none&path=/api&type=xhttp#🇫🇮 
+vless://f55ba81e-b4c1-abdf-9748-f0c1e6850324@fast.vipstore.world:80?mode=auto&path=/api&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=finland1.global.ssl.fastly.net&type=xhttp#🇫🇮 
