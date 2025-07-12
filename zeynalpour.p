@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLXBAbG9jYWxob3N0OjUzOTQ1#82.16GB/100.00GB (82.2 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLXBAbG9jYWxob3N0OjUzOTQ1#82.17GB/100.00GB (82.2 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLXBAbG9jYWxob3N0OjUzOTQ1#اشتراک شما در 46 ساعت به پایان میرسد ساعت 
 vless://84078cc7-7b19-0a30-285e-498e3f508cd3@it.wiselearn.ir:80?encryption=none&type=tcp#🇮🇹 
 vless://84078cc7-7b19-0a30-285e-498e3f508cd3@fast.vipstore.world:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=belgium.global.ssl.fastly.net&type=xhttp#🇧🇪 
