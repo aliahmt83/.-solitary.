@@ -1,11 +1,11 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbGl6YWRlZ2FuMkBsb2NhbGhvc3Q6NTQzMzA=#46.37GB/50.00GB (92.7 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbGl6YWRlZ2FuMkBsb2NhbGhvc3Q6NTQzMzA=#46.33GB/50.00GB (92.7 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbGl6YWRlZ2FuMkBsb2NhbGhvc3Q6NTQzMzA=#1404/04/27 15:44:41 
 vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@it.wiselearn.ir:80?encryption=none&type=tcp#🇮🇹 
-vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@141.98.233.104:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇧🇪 
+vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@fast.vipstore.world:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=belgium.global.ssl.fastly.net&type=xhttp#🇧🇪 
 vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
 vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#🇷🇺 
-vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@ned.vipstore.world:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇳🇱 
+vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@fast.vipstore.world:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=holland.global.ssl.fastly.net&type=xhttp#🇳🇱 
 vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@cdn2.myandroidplus2.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#Tunnel 
 vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
 vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@speed.wiselearn.ir:8880?encryption=none&type=grpc#🇫🇮 
-vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@65.108.242.114:80?mode=auto&security=none&encryption=none&path=/api&type=xhttp#🇫🇮 
+vless://a4c8b181-cf0b-5fab-2a09-5257953eed15@fast.vipstore.world:80?mode=auto&path=/api&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=finland1.global.ssl.fastly.net&type=xhttp#🇫🇮 
