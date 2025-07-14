@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLXBAbG9jYWxob3N0OjUzOTQ1#85.93GB/100.00GB (85.9 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLXBAbG9jYWxob3N0OjUzOTQ1#85.94GB/100.00GB (85.9 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLXBAbG9jYWxob3N0OjUzOTQ1#%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%20%D8%B4%D9%85%D8%A7%20%D8%AF%D8%B1%201%20%D8%B3%D8%A7%D8%B9%D8%AA%20%D8%A8%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D9%85%DB%8C%D8%B1%D8%B3%D8%AF ساعت 
 vless://84078cc7-7b19-0a30-285e-498e3f508cd3@it.wiselearn.ir:80?encryption=none&type=tcp#🇮🇹 
 vless://84078cc7-7b19-0a30-285e-498e3f508cd3@141.98.233.104:80?mode=auto&path=/&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇧🇪 
