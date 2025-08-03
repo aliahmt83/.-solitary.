@@ -1,11 +1,11 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyQGxvY2FsaG9zdDo1NDc4MA==#0B/60.00GB (0.0 درصد)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyQGxvY2FsaG9zdDo1NDc4MA==#زمان اشتراک شما به پایان رسیده
-vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@141.98.233.104:80?mode=auto&path=/&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇧🇪 
-vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
-vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#🇷🇺 
-vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@ned.vipstore.world:80?mode=auto&path=/&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇳🇱 
-vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#Tunnel 
-vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@it.wiselearn.ir:80?path=/&encryption=none&type=tcp#🇮🇹 
-vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
-vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@speed.wiselearn.ir:8880?encryption=none&type=grpc#🇫🇮 
-vless://78ca472b-7094-9ffe-5bce-47fa69157ffc@finland.vipstore.world:80?mode=auto&path=/api&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇫🇮 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotUmV6YS1AbG9jYWxob3N0OjU0MTUx#43.09GB/60.00GB (71.8 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotUmV6YS1AbG9jYWxob3N0OjU0MTUx#1404/05/17 20:00:08 
+vless://e7716b3b-efa1-b126-fbd5-0f988bda5ee7@141.98.233.104:80?mode=auto&path=/&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇧🇪 
+vless://e7716b3b-efa1-b126-fbd5-0f988bda5ee7@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
+vless://e7716b3b-efa1-b126-fbd5-0f988bda5ee7@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#🇷🇺 
+vless://e7716b3b-efa1-b126-fbd5-0f988bda5ee7@ned.vipstore.world:80?mode=auto&path=/&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇳🇱 
+vless://e7716b3b-efa1-b126-fbd5-0f988bda5ee7@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#Tunnel 
+vless://e7716b3b-efa1-b126-fbd5-0f988bda5ee7@it.wiselearn.ir:80?path=/&encryption=none&type=tcp#🇮🇹 
+vless://e7716b3b-efa1-b126-fbd5-0f988bda5ee7@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
+vless://e7716b3b-efa1-b126-fbd5-0f988bda5ee7@speed.wiselearn.ir:8880?encryption=none&type=grpc#🇫🇮 
+vless://e7716b3b-efa1-b126-fbd5-0f988bda5ee7@finland.vipstore.world:80?mode=auto&path=/api&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇫🇮 
