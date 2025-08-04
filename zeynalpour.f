@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotUmV6YS1AbG9jYWxob3N0OjU0MTUx#44.95GB/60.00GB (74.9 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotUmV6YS1AbG9jYWxob3N0OjU0MTUx#44.99GB/60.00GB (75.0 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotUmV6YS1AbG9jYWxob3N0OjU0MTUx#1404/05/17 20:00:08 
 vless://e7716b3b-efa1-b126-fbd5-0f988bda5ee7@141.98.233.104:80?mode=auto&path=/&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇧🇪 
 vless://e7716b3b-efa1-b126-fbd5-0f988bda5ee7@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
