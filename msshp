@@ -1,9 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcy5TaHBAbG9jYWxob3N0OjUyMTA4#47.72GB/70.00GB (68.2 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcy5TaHBAbG9jYWxob3N0OjUyMTA4#53.55GB/70.00GB (76.5 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcy5TaHBAbG9jYWxob3N0OjUyMTA4#1404/05/24 14:47:31 
 vless://78fe022b-0691-66f4-6405-66622e5ce726@141.98.233.104:80?mode=auto&path=/&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇧🇪 
-vless://78fe022b-0691-66f4-6405-66622e5ce726@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp#🇹🇷 
-vless://78fe022b-0691-66f4-6405-66622e5ce726@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru#🇷🇺 
+vless://78fe022b-0691-66f4-6405-66622e5ce726@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&sni=tr.wiselearn.ir#🇹🇷 
+vless://78fe022b-0691-66f4-6405-66622e5ce726@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru&sni=r.wiselearn.ir#🇷🇺 
 vless://78fe022b-0691-66f4-6405-66622e5ce726@ned.vipstore.world:80?mode=auto&path=/&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇳🇱 
+vless://78fe022b-0691-66f4-6405-66622e5ce726@cdn2.myandroidplus2.ir:80?path=/&encryption=none&type=xhttp#🇺🇸 
 vless://78fe022b-0691-66f4-6405-66622e5ce726@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#Tunnel 
 vless://78fe022b-0691-66f4-6405-66622e5ce726@it.wiselearn.ir:80?path=/&encryption=none&type=tcp#🇮🇹 
 vless://78fe022b-0691-66f4-6405-66622e5ce726@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
