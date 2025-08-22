@@ -1,9 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcy5CYWxhdmFyQGxvY2FsaG9zdDo1MjMwNA==#28.91GB/60.00GB (48.2 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcy5CYWxhdmFyQGxvY2FsaG9zdDo1MjMwNA==#28.95GB/60.00GB (48.2 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcy5CYWxhdmFyQGxvY2FsaG9zdDo1MjMwNA==#1404/06/14 00:52:28 
-vless://7ee28426-fb4c-5936-b4c9-22e5660f8bfb@141.98.233.104:80?mode=auto&path=/&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇧🇪 
 vless://7ee28426-fb4c-5936-b4c9-22e5660f8bfb@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&sni=tr.wiselearn.ir#🇹🇷 
-vless://7ee28426-fb4c-5936-b4c9-22e5660f8bfb@r.wiselearn.ir:8443?security=tls&alpn=h2&encryption=none&headerType=&type=tcp&path=/ru&sni=r.wiselearn.ir#🇷🇺 
 vless://7ee28426-fb4c-5936-b4c9-22e5660f8bfb@cdn2.myandroidplus2.ir:8087?path=/&encryption=none&type=grpc#🇳🇱 
+vless://7ee28426-fb4c-5936-b4c9-22e5660f8bfb@sdk2.myandroidplus2.ir:8080?mode=auto&path=/&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=xhttp&sni=sdk2.myandroidplus2.ir#Tunnel2 
 vless://7ee28426-fb4c-5936-b4c9-22e5660f8bfb@cdn2.myandroidplus2.ir:80?path=/&encryption=none&type=xhttp#🇺🇸 
 vless://7ee28426-fb4c-5936-b4c9-22e5660f8bfb@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#Tunnel 
 vless://7ee28426-fb4c-5936-b4c9-22e5660f8bfb@it.wiselearn.ir:80?path=/&encryption=none&type=tcp#🇮🇹 
