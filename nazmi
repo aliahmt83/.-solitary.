@@ -5,6 +5,8 @@ vless://20a03b93-37f7-c966-999b-f8f150f3c24f@sdk2.myandroidplus2.ir:8080?mode=au
 vless://20a03b93-37f7-c966-999b-f8f150f3c24f@sdk2.myandroidplus2.ir:8082?path=/&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=grpc&sni=sdk2.myandroidplus2.ir#Tunnel2 
 vless://20a03b93-37f7-c966-999b-f8f150f3c24f@cdn2.myandroidplus2.ir:80?path=/&encryption=none&type=xhttp#🇺🇸** 
 vless://20a03b93-37f7-c966-999b-f8f150f3c24f@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#Tunnel** 
+vless://20a03b93-37f7-c966-999b-f8f150f3c24f@cdn2.myandroidplus2.ir:8088?path=/&encryption=none&type=grpc#ترکیه 
+vless://20a03b93-37f7-c966-999b-f8f150f3c24f@cdn2.myandroidplus2.ir:8089?path=/&encryption=none&type=grpc#روسیه 
 vless://20a03b93-37f7-c966-999b-f8f150f3c24f@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
 vless://20a03b93-37f7-c966-999b-f8f150f3c24f@speed.wiselearn.ir:8880?encryption=none&type=grpc#🇫🇮 
 vless://20a03b93-37f7-c966-999b-f8f150f3c24f@finland.vipstore.world:80?mode=auto&path=/api&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#🇫🇮 
