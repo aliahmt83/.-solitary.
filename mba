@@ -4,7 +4,7 @@ vless://f57d1003-7501-f8a7-7048-706437dcaf1f@cdn2.myandroidplus2.ir:8087?path=/&
 vless://f57d1003-7501-f8a7-7048-706437dcaf1f@sdk2.myandroidplus2.ir:8080?mode=auto&path=/&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=xhttp&sni=sdk2.myandroidplus2.ir#Tunnel2 
 vless://f57d1003-7501-f8a7-7048-706437dcaf1f@sdk2.myandroidplus2.ir:8082?path=/&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=grpc&sni=sdk2.myandroidplus2.ir#Tunnel2 
 vless://f57d1003-7501-f8a7-7048-706437dcaf1f@cdn2.myandroidplus2.ir:80?path=/&encryption=none&type=xhttp#🇺🇸 
-vless://f57d1003-7501-f8a7-7048-706437dcaf1f@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#آلمان 
+vless://f57d1003-7501-f8a7-7048-706437dcaf1f@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#🇩🇪 
 vless://f57d1003-7501-f8a7-7048-706437dcaf1f@cdn2.myandroidplus2.ir:8088?path=/&encryption=none&type=grpc#🇹🇷 
 vless://f57d1003-7501-f8a7-7048-706437dcaf1f@cdn2.myandroidplus2.ir:8089?path=/&encryption=none&type=grpc#🇷🇺 
 vless://f57d1003-7501-f8a7-7048-706437dcaf1f@speed2.wiselearn.ir:80?encryption=none&type=grpc#🇩🇪 
