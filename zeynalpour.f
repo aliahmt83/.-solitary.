@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjU3Njc5#58.93GB/60.00GB (98.2 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjU3Njc5#58.98GB/60.00GB (98.3 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjU3Njc5#1404/07/30 01:35:49 
 vless://a683c65b-52bf-3dfe-33bf-aef1f8de63fa@cdn2.myandroidplus2.ir:7777?path=/&encryption=none&type=xhttp#🇳🇱 
 vless://a683c65b-52bf-3dfe-33bf-aef1f8de63fa@cdn2.myandroidplus2.ir:8087?path=/&encryption=none&type=grpc#🇳🇱 
