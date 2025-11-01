@@ -8,5 +8,4 @@ vless://77be75f4-c0ea-a929-c5da-cc77887ffa3a@cdn2.myandroidplus2.ir:8443?securit
 vless://77be75f4-c0ea-a929-c5da-cc77887ffa3a@cdn2.myandroidplus2.ir:8088?path=/&encryption=none&type=grpc#Türkiye 🇹🇷 
 vless://77be75f4-c0ea-a929-c5da-cc77887ffa3a@cdn2.myandroidplus2.ir:8089?path=/&encryption=none&type=grpc#Russia 🇷🇺 
 vless://77be75f4-c0ea-a929-c5da-cc77887ffa3a@speed2.wiselearn.ir:80?encryption=none&type=grpc#Germany 🇩🇪 
-vless://77be75f4-c0ea-a929-c5da-cc77887ffa3a@speed.wiselearn.ir:8880?encryption=none&type=grpc#Finland 🇫🇮 
-vless://77be75f4-c0ea-a929-c5da-cc77887ffa3a@finland.vipstore.world:80?mode=auto&path=/api&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&type=xhttp#Finland 🇫🇮 
+vless://77be75f4-c0ea-a929-c5da-cc77887ffa3a@cdn2.myandroidplus2.ir:8444?security=reality&encryption=none&pbk=Leo19xX145yYV_nhxz4vzwzDlwqjhTQdzRd1aTC6JBo&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#Finland 🇫🇮 
