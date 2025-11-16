@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#138.1MB/60.00GB (0.2 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#18.6MB/60.00GB (0.0 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#1404/09/25 21:33:15 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@cdn2.myandroidplus2.ir:7777?path=/&encryption=none&type=xhttp#Netherland 🇳🇱 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@apistatic.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=apistatic.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#این سرور مرتبا بروز میشود. لطفا اشتراک خود را بروز کنید 
