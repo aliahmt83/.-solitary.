@@ -1,13 +1,13 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjU4MTMy#48.87GB/100.00GB (48.9 درصد)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjU4MTMy#%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%20%D8%B4%D9%85%D8%A7%20%D8%AF%D8%B1%205%20%D8%B3%D8%A7%D8%B9%D8%AA%20%D8%A8%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D9%85%DB%8C%D8%B1%D8%B3%D8%AF ساعت 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjU4MTMy#49.00GB/100.00GB (49.0 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjU4MTMy#%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%20%D8%B4%D9%85%D8%A7%20%D8%AF%D8%B1%2055%20%D8%AF%D9%82%DB%8C%D9%82%D9%87%20%D8%A8%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D9%85%DB%8C%D8%B1%D8%B3%D8%AF 
 vless://0958fd48-fd6a-19a4-4315-8df3033189a0@cdn2.myandroidplus2.ir:7777?path=/&encryption=none&type=xhttp#Netherland 🇳🇱 
 vless://0958fd48-fd6a-19a4-4315-8df3033189a0@apistatic.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=apistatic.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#این سرور مرتبا بروز میشود. لطفا اشتراک خود را بروز کنید 
 vless://0958fd48-fd6a-19a4-4315-8df3033189a0@cdn2.myandroidplus2.ir:8087?path=/&encryption=none&type=grpc#Netherland 🇳🇱 
-vless://0958fd48-fd6a-19a4-4315-8df3033189a0@cdn2.myandroidplus2.ir:80?path=/&encryption=none&type=xhttp#USA 🇺🇸 
 vless://0958fd48-fd6a-19a4-4315-8df3033189a0@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#Germany 🇩🇪 
 vless://0958fd48-fd6a-19a4-4315-8df3033189a0@puzzle.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=puzzle.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#این سرور مرتبا بروز میشود. لطفا اشتراک خود را بروز کنید 
+vless://0958fd48-fd6a-19a4-4315-8df3033189a0@napi.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=napi.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#اضطراری 3 
+vless://0958fd48-fd6a-19a4-4315-8df3033189a0@ndk1.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=ndk1.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#اضطراری 4 
 vless://0958fd48-fd6a-19a4-4315-8df3033189a0@cdn2.myandroidplus2.ir:8443?security=reality&encryption=none&pbk=Leo19xX145yYV_nhxz4vzwzDlwqjhTQdzRd1aTC6JBo&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#G.Britain 🇬🇧 
 vless://0958fd48-fd6a-19a4-4315-8df3033189a0@cdn2.myandroidplus2.ir:8088?path=/&encryption=none&type=grpc#Türkiye 🇹🇷 
-vless://0958fd48-fd6a-19a4-4315-8df3033189a0@cdn2.myandroidplus2.ir:8089?path=/&encryption=none&type=grpc#Russia 🇷🇺 
 vless://0958fd48-fd6a-19a4-4315-8df3033189a0@speed2.wiselearn.ir:80?encryption=none&type=grpc#Germany 🇩🇪 
 vless://0958fd48-fd6a-19a4-4315-8df3033189a0@cdn2.myandroidplus2.ir:8444?security=reality&encryption=none&pbk=Leo19xX145yYV_nhxz4vzwzDlwqjhTQdzRd1aTC6JBo&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#Finland 🇫🇮 
