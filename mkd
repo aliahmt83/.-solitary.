@@ -3,6 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZXJhai1NS0RAbG9jYWxob3N0OjU5NzM0#1404/09/11
 vless://9d248110-65bf-f9db-aebe-35533bd3f9d8@cdn2.myandroidplus2.ir:7777?path=/&encryption=none&type=xhttp#Netherland 🇳🇱 
 vless://9d248110-65bf-f9db-aebe-35533bd3f9d8@cdn2.myandroidplus2.ir:8087?path=/&encryption=none&type=grpc#Netherland 🇳🇱 
 vless://9d248110-65bf-f9db-aebe-35533bd3f9d8@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#Germany 🇩🇪 
+trojan://9d248110-65bf-f9db-aebe-35533bd3f9d8@staticndk.myandroidplus2.ir:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=puzzle.myandroidplus2.ir&pbk=xP7TAQXcUwqRHshHfS_Bco11urItsY0nA4E7lNG-mGU#Germany 🇩🇪 4 
 vless://9d248110-65bf-f9db-aebe-35533bd3f9d8@apistatic.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=apistatic.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#Germany 🇩🇪 🆘 
 vless://9d248110-65bf-f9db-aebe-35533bd3f9d8@ndk1.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=ndk1.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#Germany 🇩🇪 🆘(2) 
 vless://9d248110-65bf-f9db-aebe-35533bd3f9d8@staticndk.myandroidplus2.ir:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=puzzle.myandroidplus2.ir&pbk=xP7TAQXcUwqRHshHfS_Bco11urItsY0nA4E7lNG-mGU#Germany 🇩🇪3 
