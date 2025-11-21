@@ -1,6 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#2.77GB/60.00GB (4.6 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#2.88GB/60.00GB (4.8 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#1404/09/25 21:33:15 
-vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@cdn2.myandroidplus2.ir:7777?path=/&encryption=none&type=xhttp#Netherland 🇳🇱 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@cdn2.myandroidplus2.ir:8087?path=/&encryption=none&type=grpc#Netherland 🇳🇱 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#Germany 🇩🇪 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@apistatic.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=apistatic.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#Germany 🇩🇪 🆘 
