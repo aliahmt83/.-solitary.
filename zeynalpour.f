@@ -1,14 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#2.88GB/60.00GB (4.8 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#2.89GB/60.00GB (4.8 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#1404/09/25 21:33:15 
-vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@cdn2.myandroidplus2.ir:8087?path=/&encryption=none&type=grpc#Netherland 🇳🇱 
-vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@cdn2.myandroidplus2.ir:8080?path=/&encryption=none&type=xhttp#Germany 🇩🇪 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@apistatic.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=apistatic.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#Germany 🇩🇪 🆘 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@ndk1.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=ndk1.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#Germany 🇩🇪 🆘(2) 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@staticndk.myandroidplus2.ir:752?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=puzzle.myandroidplus2.ir&pbk=xP7TAQXcUwqRHshHfS_Bco11urItsY0nA4E7lNG-mGU#Germany 🇩🇪3 
 trojan://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@staticndk.myandroidplus2.ir:2072?type=tcp&mode=gun&serviceName=&security=reality&fp=chrome&sni=afranet.ir&pbk=xP7TAQXcUwqRHshHfS_Bco11urItsY0nA4E7lNG-mGU#Germany 🇩🇪4 
-vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@cdn2.myandroidplus2.ir:8443?security=reality&encryption=none&pbk=Leo19xX145yYV_nhxz4vzwzDlwqjhTQdzRd1aTC6JBo&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#G.Britain 🇬🇧 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@puzzle.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=puzzle.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#G.Britain 🇬🇧 🆘 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@napi.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=napi.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#G.Britain 🇬🇧 🆘(2) 
-vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@cdn2.myandroidplus2.ir:8088?path=/&encryption=none&type=grpc#Türkiye 🇹🇷 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@speed2.wiselearn.ir:80?encryption=none&type=grpc#Germany 🇩🇪 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@cdn2.myandroidplus2.ir:8444?security=reality&encryption=none&pbk=Leo19xX145yYV_nhxz4vzwzDlwqjhTQdzRd1aTC6JBo&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#Finland 🇫🇮 
