@@ -7,4 +7,3 @@ trojan://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@staticndk.myandroidplus2.ir:2072?t
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@puzzle.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=puzzle.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#G.Britain 🇬🇧 🆘 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@napi.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=napi.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#G.Britain 🇬🇧 🆘(2) 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@speed2.wiselearn.ir:80?encryption=none&type=grpc#Germany 🇩🇪 
-vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@cdn2.myandroidplus2.ir:8444?security=reality&encryption=none&pbk=Leo19xX145yYV_nhxz4vzwzDlwqjhTQdzRd1aTC6JBo&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#Finland 🇫🇮 
