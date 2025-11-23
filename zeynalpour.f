@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#4.98GB/60.00GB (8.3 درصد)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#4.98GB/60.00GB (8.3 درصد از کل حجم)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZXluYWxQb3VyLUZAbG9jYWxob3N0OjUzMjcx#1404/09/25 21:33:15 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@apistatic.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=apistatic.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#Germany 🇩🇪 🆘 
 vless://495e0c30-f406-2c3e-fea9-b7ec5d8414d5@ndk1.myandroidplus2.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=ndk1.myandroidplus2.ir&alpn=http/1.1&allowInsecure=false#Germany 🇩🇪 🆘(2) 
