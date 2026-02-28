@@ -1,9 +1,12 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptRnV5SmNaeFNjQGxvY2FsaG9zdDo1MzU5NQ==#130.0MB/30.00GB (0.4 درصد)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptRnV5SmNaeFNjQGxvY2FsaG9zdDo1MzU5NQ==#1404/12/20 19:36:22 
+vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=norahost.nl&fp=chrome&type=xhttp&allowInsecure=0&sni=norahost.nl#CF 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@cart.norahost.nl:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=norahost.nl&fp=chrome&type=xhttp&allowInsecure=0&sni=norahost.nl#CF 
+vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@dl.android-club.ir:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=norahost.nl&fp=chrome&type=xhttp&allowInsecure=0&sni=norahost.nl#CF 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@tn.android-club.ir:8443?type=tcp#Tunnel 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@zone2.android-club.ir:443?encryption=none&type=xhttp&mode=auto&host=mag.android-club.ir&security=tls&fp=firefox&sni=mag.android-club.ir&alpn=h2#vip 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@openai.com:443?encryption=none&type=xhttp&mode=auto&host=mag.android-club.ir&security=tls&fp=firefox&sni=mag.android-club.ir&alpn=h2#vip 
+vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@dl.android-club.ir:443?encryption=none&type=xhttp&mode=auto&host=mag.android-club.ir&security=tls&fp=firefox&sni=mag.android-club.ir&alpn=h2#vip 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@ai.android-club.ir:80?encryption=none&type=xhttp&mode=auto&host=mag.android-club.ir#Vip(80) 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@chatgpt.com:80?encryption=none&type=xhttp&mode=auto&host=mag.android-club.ir#Vip(80) 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@mag.android-club.ir:80?encryption=none&type=xhttp&mode=auto&host=mag.android-club.ir#Vip(80) 
@@ -13,7 +16,7 @@ vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@dev3.android-club.ir:80?mode=auto&s
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@dev5.android-club.ir:80?mode=auto&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=cplusnim.global.ssl.fastly.net.&type=xhttp#🇩🇪 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@zone.android-club.ir:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=shop.android-club.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.android-club.ir#EP1 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@zone3.android-club.ir:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=shop.android-club.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.android-club.ir#EP1 
-vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@zone5.android-club.ir:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=shop.android-club.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.android-club.ir#EP1 
+vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@dl.android-club.ir:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=shop.android-club.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.android-club.ir#EP1 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@zone2.android-club.ir:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=shop.android-club.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.android-club.ir#EP2 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@zone4.android-club.ir:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=shop.android-club.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.android-club.ir#EP2 
 vless://6b85dab3-6603-ca7b-033d-acf08c4b93ad@zone6.android-club.ir:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=shop.android-club.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.android-club.ir#EP2 
